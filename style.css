@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(63, 63, 63);;
+}
+h1{
+    font-size:8rem;
+    font-family:cursive;
+    text-align:center;
+    color:antiquewhite;
+}
+.flex-container{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+}
+.flex-item{
+    text-align:center;
+    height:auto;
+    background-color: transparent;
+    margin-left: 40px;
+    color:antiquewhite;
+}
+p{
+    margin-top:50px;
+    text-align:center;
+    color:antiquewhite;
+    font-family:cursive;
+}
